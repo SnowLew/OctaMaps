@@ -44,7 +44,7 @@ import JustTest from'./Blocos/JustTest'
 const menu = createDrawerNavigator({
     'Home': {
       //Definindo a Tela exibida no novo componente 'HOME'
-      screen: BlocoBP2 , 
+      screen: Index , 
       navigationOptions:{
         //Icone que sera desenhado
         drawerIcon: () => <Icon name='home'/>
