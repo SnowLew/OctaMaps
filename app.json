@@ -1,0 +1,12 @@
+{
+  "name": "octamaps",
+  "displayName": "octamaps",
+  "expo": {
+    "name": "octamaps",
+    "slug": "octamaps",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
